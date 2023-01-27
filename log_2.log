@@ -1,0 +1,4 @@
+date: 2023-01-27 10:35:51.330945, name_func: hello_world, arguments: () and {}, value: Hello World
+date: 2023-01-27 10:35:51.331630, name_func: summator, arguments: (2, 2) and {}, value: 4
+date: 2023-01-27 10:35:51.331630, name_func: div, arguments: (6, 2) and {}, value: 3.0
+date: 2023-01-27 10:35:51.331630, name_func: summator, arguments: (4.3,) and {'b': 2.2}, value: 6.5
